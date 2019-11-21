@@ -17,4 +17,4 @@ Using architecture components to make the app lifecycle aware
 Cache db i.e. in real for search saves
 Dagger2 for Dependency Injection
 
-please see new repository gaffyhoaresbank-extra for some of the above changes that were done out of the 2 hour time limit such as dagger implementation 
+please see new repository gaffyhoaresbank-extra for some of the above changes that were done out of the 2 hour time limit such as dagger implementation the link to this is:  https://github.com/gaffycool/gaffyhoaresbank-extra
